@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋 I'm Dilpreet Kaur 
 
-<!--
-**DilpreetKaur16/DilpreetKaur16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- 🌱 I’m currently learning every possible thing, because I love learning. 
+- 👯 I’m looking to collaborate on Web Creators.
+- 🤔 I’m looking for help with React Native.
+- 💬 Ask me about Web Development and Games Development.
+- 📫 How to reach me: dilpreetkaur1606@gmail.com
+- 🎯 To do my best in every opportunity.
+- ⚡ Fun fact: I am fond of continuously improving myself. I like to sketch and listen you Tube to explore more.
+
+<img src="https://github-readme-stats.vercel.app/api?username=DilpreetKaur16&&show_icons=true&title_color=ffffff&icon_color=ff4500&text_color=daf7dc&bg_color=151515">
